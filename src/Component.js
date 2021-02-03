@@ -5,7 +5,7 @@ export const ComponentB = ({ test }) => {
     <div className="App">
       Component B
 
-      {test}
+      {test}.
     </div>
   );
 }
