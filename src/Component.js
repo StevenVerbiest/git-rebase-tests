@@ -1,11 +1,11 @@
 import React from 'react';
 
-export const ComponentA = () => {
+export const ComponentB = ({ test }) => {
   return (
     <div className="App">
-      Component A
+      Component B
 
-      2.
+      {test}
     </div>
   );
 }
