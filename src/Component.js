@@ -1,9 +1,10 @@
 import React from 'react';
 
-export const Component = () => {
+export const ComponentA = () => {
   return (
     <div className="App">
-      Component
+      Component A
+      1.
     </div>
   );
 }
